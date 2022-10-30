@@ -1,0 +1,268 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Inter:wght@200&display=swap');
+
+.logo{
+    position: absolute;
+    left: 20px;
+    top: 30px;
+    bottom: 5px;
+}
+
+.navi{
+    margin-left: 800px;
+    margin-top: 45px;
+}
+
+nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li{
+    display: inline-block;
+    font-size: 21px;
+    padding: 20px 20px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+}
+
+nav ul li a{
+    color: #181717;
+    text-decoration: none;
+
+}
+
+.box{
+    max-width: 100%;
+    height: 2500px;
+}
+
+.box1{
+    margin-left: 10px;
+    width: 1200px;
+    height: 500px;
+}
+
+.b1{
+    position: relative;
+    border: none;
+    width: 360px;
+    height: 130px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-size: 60px;
+    font-weight: 500;
+}
+
+.b2{
+    position: relative;
+    margin-left: 620px;
+    margin-top: 0px;
+    height: 110px;
+    width: 700px;
+    float: left;
+    width: 50%;
+    font-family: 'DM Sans';
+    font-size: 32px;
+    font-style: none;
+    font-weight: 400;
+    color: #606060;
+}
+
+.box2{
+    position: relative;
+    max-width: 100%;
+    height: 600px;
+}
+
+.b3{
+    position: relative;
+    height: 50px;
+    width: 330px;
+    font-family: 'Inter';
+    font-size: 19px;
+    font-weight: 500;
+    font-style: normal;
+    color: #181717;
+}
+
+.b4{
+    position: relative;
+    margin-top: 35px;
+    height: 50px;
+    width: 500px;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+}
+
+.b4a{
+    position: relative;
+    margin-top: 15px;
+    height: 50px;
+    width: 500px;
+    font-family: 'Inter';
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    color: #606060;
+}
+
+.b5{
+    position: relative;
+    margin-top: 168px;
+    width: 400px;
+    height: 40px;
+    font-family: 'Inter';
+    font-size: 19px;
+    text-decoration-line: underline;
+    color: black;
+}
+
+.box3{
+    position: relative;
+    float: right;
+    width: 800px;
+    height: 500px;
+}
+
+.part1{
+    position: relative;
+    border: 1px solid black;
+    max-width: 100%;
+    background-color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.box5{
+    position: relative;
+    max-width: 100%;
+    height: 600px;
+}
+
+.b6{
+    position: relative;
+    height: 50px;
+    width: 330px;
+    font-family: 'Inter';
+    font-size: 19px;
+    font-weight: 500;
+    font-style: normal;
+    color: #181717;
+}
+
+.b7{
+    position: relative;
+    margin-top: 20px;
+    height: 50px;
+    width: 500px;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+}
+
+.b9{
+    position: relative;
+    margin-top: 168px;
+    width: 400px;
+    height: 40px;
+    font-family: 'Inter';
+    font-size: 19px;
+    text-decoration-line: underline;
+    color: black;
+}
+
+.box6{
+    position: relative;
+    float: right;
+    width: 800px;
+    height: 500px;
+}
+
+.part2{
+    position: relative;
+    border: 1px solid black;
+    max-width: 100%;
+    background-color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.box7{
+    position: relative;
+    max-width: 100%;
+    height: 600px;
+}
+
+.b10{
+    position: relative;
+    height: 50px;
+    width: 330px;
+    font-family: 'Inter';
+    font-size: 19px;
+    font-weight: 500;
+    font-style: normal;
+    color: #181717;
+}
+
+.b11{
+    position: relative;
+    margin-top: 20px;
+    height: 50px;
+    width: 500px;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+}
+
+.b12{
+    position: relative;
+    margin-top: 168px;
+    width: 400px;
+    height: 40px;
+    font-family: 'Inter';
+    font-size: 19px;
+    text-decoration-line: underline;
+    color: black;
+}
+
+.box8{
+    position: relative;
+    float: right;
+    width: 800px;
+    height: 500px;
+}
+
+.box9{
+    position: relative;
+    max-width: 100%;
+    height: 100px;
+}
+
+.fb1{
+    float: left;
+    width: 40%;
+    height: 50px;
+    font-family: 'DM Sans';
+    font-size: 21px;
+    color: #2429af;
+    text-align: center;
+}
+
+.fb2{
+    float: right;
+    margin-left: 120px;
+    width: 40%;
+    height: 50px;
+    text-align: center;
+    font-family: 'DM Sans';
+    font-size: 21px;
+}
